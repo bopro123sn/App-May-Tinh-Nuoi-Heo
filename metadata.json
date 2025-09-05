@@ -1,0 +1,6 @@
+
+{
+  "name": "Máy tính chi phí nuôi heo thịt",
+  "description": "Ứng dụng web giúp tính toán chi phí sản xuất heo thịt dựa trên lựa chọn thức ăn, FCR, và tăng trọng qua các giai đoạn.",
+  "requestFramePermissions": []
+}
